@@ -1,3 +1,4 @@
+![leap](https://user-images.githubusercontent.com/44240533/226493195-c78b6db2-39e3-4737-b2b4-933a29b0553f.svg)
 # Leap
 
 Welcome to Leap on Exercism's Java Track.
